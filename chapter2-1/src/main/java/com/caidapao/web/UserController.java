@@ -1,5 +1,6 @@
 package com.caidapao.web;
 
+import com.caidapao.entity.User;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -16,6 +17,6 @@ import java.util.Map;
 public class UserController {
 
     //创建线程安全的Map
-    private static Map<Long,String> users = Collections.synchronizedMap(new HashMap<>());
+    private static Map<Long, User> users = Collections.synchronizedMap(new HashMap<Long,User>());
 
 }
