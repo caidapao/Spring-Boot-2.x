@@ -8,4 +8,5 @@
 * chapter1-2 Resourse配置文件详解：自定义属性、随机数、多环境配置等
 * chapter2-1 构建一个较为复杂的RESTful API以及单元测试
 * chpater2-2 使用Thymeleafla模板引擎渲染web视图
+* chapter2-3 使用Freemarker模板引擎渲染web视图
 
