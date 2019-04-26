@@ -11,5 +11,5 @@
   * chapter2-1 构建一个较为复杂的RESTful API以及单元测试
   * chpater2-2 使用Thymeleafla模板引擎渲染web视图[编辑中...]
   * chapter2-3 使用Freemarker模板引擎渲染web视图[编辑中...]
-  * chapter2-4 使用Swagger2构建强大的RESTful API文档
-
+  * chapter2-4 使用Velocity模板引擎渲染web视图
+  * chapter2-5 使用Swagger2构建强大的RESTful API文档
