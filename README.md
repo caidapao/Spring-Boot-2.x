@@ -13,4 +13,5 @@
   * chapter2-3 使用Freemarker模板引擎渲染web视图[编辑中...]
   * chapter2-4 使用Velocity模板引擎渲染web视图[编辑中...]
   * chapter2-5 使用Swagger2构建强大的RESTful API文档
-  * chapter2-6 全局异常处理
+  * chapter2-6 自定义全局异常处理
+  * chapter2-7 自定义404、500等错误页面
