@@ -15,3 +15,5 @@
   * chapter2-5 使用Swagger2构建强大的RESTful API文档
   * chapter2-6 自定义全局异常处理
   * chapter2-7 自定义404、500等错误页面
+- 数据访问
+  * chapter3-1 使用JdbcTemplate访问数据库的简单示例
