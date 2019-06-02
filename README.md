@@ -17,3 +17,4 @@
   * chapter2-7 自定义404、500等错误页面
 - 数据访问
   * chapter3-1 使用JdbcTemplate访问数据库的简单示例
+  * chapter3-2 使用Spring data JPA访问数据库
