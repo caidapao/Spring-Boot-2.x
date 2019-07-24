@@ -18,4 +18,4 @@
 - 数据访问
   * chapter3-1 使用JdbcTemplate访问数据库的简单示例
   * chapter3-2 使用Spring data JPA访问数据库
-  * chapter3-3 使用NoSql数据库redis
+  * chapter3-3 使用NoSQL数据库redis
