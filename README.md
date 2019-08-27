@@ -9,7 +9,7 @@
   * chapter1-2 Resourse配置文件详解：自定义属性、随机数、多环境配置等
 - Web开发
   * chapter2-1 构建一个较为复杂的RESTful API以及单元测试
-  * chpater2-2 使用Thymeleafla模板引擎渲染web视图
+  * chpater2-2 使用Thymeleaf模板引擎渲染web视图
   * chapter2-3 使用Freemarker模板引擎渲染web视图[编辑中...]
   * chapter2-4 使用Velocity模板引擎渲染web视图[编辑中...]
   * chapter2-5 使用Swagger2构建强大的RESTful API文档
@@ -17,5 +17,6 @@
   * chapter2-7 自定义404、500等错误页面
 - 数据访问
   * chapter3-1 使用JdbcTemplate访问数据库的简单示例
-  * chapter3-2 使用Spring data JPA访问数据库
-  * chapter3-3 使用NoSQL数据库redis
+  * chapter3-2 使用Spring Data JPA访问数据库
+  * chapter3-3 使用NoSQL数据库Redis
+  * chapter3-4 使用NoSQL数据库MongoDB
